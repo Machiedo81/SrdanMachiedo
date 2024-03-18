@@ -8,5 +8,9 @@ namespace SrdanMachiedo
 {
     internal class Class1
     {
+        static void Metoda()
+        {
+
+        }
     }
 }
